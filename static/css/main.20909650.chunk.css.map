@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACI,eAAgB,CAChB,iHACJ","file":"main.20909650.chunk.css","sourcesContent":["html {\n    min-height: 100%;\n    padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);\n}"]}
